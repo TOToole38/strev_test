@@ -1,5 +1,7 @@
 require "strev_test/version"
 
 module StrevTest
-  # Your code goes here...
+  def self.hello 
+  	puts "Hello, world!"
+  end 
 end
